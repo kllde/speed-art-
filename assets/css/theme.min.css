@@ -38090,3 +38090,8 @@ a.pswp__share--download:hover {
 		padding-right: 3rem
 	}
 }
+@media only screen and (max-width: 600px) {
+	.bg-cover {
+		 background-position: -250px;
+	 }
+ }
